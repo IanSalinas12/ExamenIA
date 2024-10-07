@@ -1,0 +1,5 @@
+la variable representa la clase del dataset es la de Workout_Type, porque
+representara el tipo de ejercicio que realiza cada miembro del gimnasio,
+ya que permite categorizar y analic¿zar el impacto de diferentes modalidades
+de entrenamiento, como cardio, fuerza, yoga o HIT, en el rendimiento fisico y sus
+resultados.
